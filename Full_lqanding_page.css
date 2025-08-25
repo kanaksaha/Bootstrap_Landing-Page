@@ -1,0 +1,14 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Medium Image Style */
+.medium-img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
